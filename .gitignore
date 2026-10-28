@@ -1,0 +1,8 @@
+# Nested git repos — managed separately
+github-profile/
+dsa-daily/
+
+node_modules/
+dist/
+*.log
+.DS_Store
